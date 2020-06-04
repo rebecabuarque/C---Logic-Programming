@@ -1,4 +1,4 @@
-# C---Logic-Programming
+# C# / First List Exercise / Object-Oriented Programming 
 
 <h3> Make a program to read an integer N and then the data (id, name and salary) of N employees. There should be no repetition of id. Then, increase the salary by X percent for a specific employee. To do this, the program must read an ID and the value X. If the provided ID does not exist, show a message and stop the operation. At the end, show the updated list of employees, as examples.
 Remember to apply the encapsulation technique to not allow the salary be changed freely. A salary can only be increased based on increase by a given percentage. </h3>
