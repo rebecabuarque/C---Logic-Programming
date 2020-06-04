@@ -1,15 +1,8 @@
-# C---Logic-Programming - First List Exercise
+# C---Logic-Programming
 
-Fazer um programa para ler um número inteiro N e depois os dados (id, nome e salario) de
-N funcionários. Não deve haver repetição de id.
-Em seguida, efetuar o aumento de X por cento no salário de um determinado funcionário.
-Para isso, o programa deve ler um id e o valor X. Se o id informado não existir, mostrar uma
-mensagem e abortar a operação. Ao final, mostrar a listagem atualizada dos funcionários,
-conforme exemplos.
-Lembre-se de aplicar a técnica de encapsulamento para não permitir que o salário possa
-ser mudado livremente. Um salário só pode ser aumentado com base em uma operação de
-aumento por porcentagem dada.
-(exemplo na próxima página)
+<h3> Make a program to read an integer N and then the data (id, name and salary) of N employees. There should be no repetition of id. Then, increase the salary by X percent for a specific employee. To do this, the program must read an ID and the value X. If the provided ID does not exist, show a message and stop the operation. At the end, show the updated list of employees, as examples.
+Remember to apply the encapsulation technique to not allow the salary be changed freely. A salary can only be increased based on increase by a given percentage. </h3>
+
 <hr>
 <h4> Exemplo 1: </h4>
 <br> How many employees will be registered? 3 
